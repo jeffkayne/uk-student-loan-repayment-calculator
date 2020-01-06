@@ -1,0 +1,81 @@
+Date,Transaction description,Debit (£),Credit (£)
+06/04/2014,Opening balance,0.00,0.00
+03/10/2014,Maintenance Loan Payment,1719.63,0.00
+15/10/2014,Tuition Fee Loan Payment,2250.00,0.00
+31/10/2014,Interest  5.50%,12.37,0.00
+30/11/2014,Interest  5.50%,17.57,0.00
+31/12/2014,Interest  5.50%,18.22,0.00
+05/01/2015,Maintenance Loan Payment,1719.63,0.00
+31/01/2015,Interest  5.50%,24.88,0.00
+04/02/2015,Tuition Fee Loan Payment,2250.00,0.00
+28/02/2015,Interest  5.50%,31.66,0.00
+31/03/2015,Interest  5.50%,36.66,0.00
+13/04/2015,Maintenance Loan Payment,1771.74,0.00
+30/04/2015,Interest  5.50%,40.06,0.00
+06/05/2015,Tuition Fee Loan Payment,4500.00,0.00
+31/05/2015,Interest  5.50%,61.63,0.00
+30/06/2015,Interest  5.50%,63.74,0.00
+31/07/2015,Interest  5.50%,66.16,0.00
+31/08/2015,Interest  5.50%,66.46,0.00
+28/09/2015,Maintenance Loan Payment,1663.20,0.00
+30/09/2015,Interest  3.90%,46.36,0.00
+21/10/2015,Tuition Fee Loan Payment,2250.00,0.00
+31/10/2015,Interest  3.90%,55.46,0.00
+30/11/2015,Interest  3.90%,58.62,0.00
+31/12/2015,Interest  3.90%,60.77,0.00
+04/01/2016,Maintenance Loan Payment,1663.20,0.00
+31/01/2016,Interest  3.90%,65.67,0.00
+03/02/2016,Tuition Fee Loan Payment,2250.00,0.00
+29/02/2016,Interest  3.90%,68.41,0.00
+31/03/2016,Interest  3.90%,74.12,0.00
+04/04/2016,Maintenance Loan Payment,1713.60,0.00
+30/04/2016,Interest  3.90%,76.62,0.00
+04/05/2016,Tuition Fee Loan Payment,4500.00,0.00
+31/05/2016,Interest  3.90%,92.87,0.00
+30/06/2016,Interest  3.90%,92.00,0.00
+31/07/2016,Interest  3.90%,95.36,0.00
+31/08/2016,Interest  3.90%,95.66,0.00
+30/09/2016,Interest  4.60%,109.51,0.00
+03/10/2016,Maintenance Loan Payment,1260.60,0.00
+19/10/2016,Tuition Fee Loan Payment,2250.00,0.00
+31/10/2016,Interest  4.60%,121.28,0.00
+30/11/2016,Interest  4.60%,123.36,0.00
+31/12/2016,Interest  4.60%,127.96,0.00
+09/01/2017,Maintenance Loan Payment,1260.60,0.00
+31/01/2017,Interest  4.60%,131.87,0.00
+01/02/2017,Tuition Fee Loan Payment,2250.00,0.00
+28/02/2017,Interest  4.60%,128.33,0.00
+31/03/2017,Interest  4.60%,142.88,0.00
+24/04/2017,Maintenance Loan Payment,1298.80,0.00
+30/04/2017,Interest  4.60%,139.76,0.00
+03/05/2017,Tuition Fee Loan Payment,4500.00,0.00
+31/05/2017,Interest  4.60%,164.49,0.00
+30/06/2017,Interest  4.60%,161.40,0.00
+31/07/2017,Interest  4.60%,167.40,0.00
+31/08/2017,Interest  4.60%,168.03,0.00
+30/09/2017,Interest  6.10%,215.06,0.00
+02/10/2017,Maintenance Loan Payment,1206.81,0.00
+18/10/2017,Tuition Fee Loan Payment,2250.00,0.00
+31/10/2017,Interest  6.10%,233.75,0.00
+30/11/2017,Interest  6.10%,234.11,0.00
+31/12/2017,Interest  6.10%,243.09,0.00
+08/01/2018,Maintenance Loan Payment,1206.81,0.00
+31/01/2018,Interest  6.10%,248.83,0.00
+07/02/2018,Tuition Fee Loan Payment,2250.00,0.00
+28/02/2018,Interest  6.10%,235.00,0.00
+31/03/2018,Interest  6.10%,264.17,0.00
+09/04/2018,Maintenance Loan Payment,1243.38,0.00
+30/04/2018,Interest  6.10%,261.18,0.00
+02/05/2018,Tuition Fee Loan Payment,4500.00,0.00
+31/05/2018,Interest  6.10%,294.32,0.00
+30/06/2018,Interest  6.10%,287.68,0.00
+31/07/2018,Interest  6.10%,298.73,0.00
+31/08/2018,Interest  6.10%,300.22,0.00
+30/09/2018,Interest  6.30%,301.31,0.00
+31/10/2018,Interest  6.30%,312.92,0.00
+30/11/2018,Interest  6.30%,304.42,0.00
+31/12/2018,Interest  6.30%,316.14,0.00
+31/01/2019,Interest  6.30%,317.78,0.00
+19/02/2019,Repayment Received,0.00,84.00
+28/02/2019,Interest  6.30%,288.38,0.00
+31/03/2019,Interest  6.30%,320.49,0.00
